@@ -1,0 +1,2 @@
+\$\w*				∆•≈‰$variable
+\[[\w,\s]*\] 		∆•≈‰[variable],[variable variable]
