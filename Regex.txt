@@ -1,2 +1,2 @@
-\$\w*				Æ¥Åä$variable
-\[[\w,\s]*\] 		Æ¥Åä[variable],[variable variable]
+ï»¿\$\w*				åŒ¹é…$variable
+\[[\w,\s]*\] 		åŒ¹é…[variable],[variable variable]
